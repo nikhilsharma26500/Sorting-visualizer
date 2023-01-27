@@ -16,7 +16,7 @@ This code is a visualization tool for sorting algorithms using the Pygame librar
 ## Note
 This code is provided as is and is not production ready. 
 
-##Dependency
+## Dependency
 `Pygame`
 
 ## Installation
